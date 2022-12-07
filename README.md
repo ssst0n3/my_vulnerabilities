@@ -34,9 +34,9 @@ Timeline:
 #### 1.3.2 [Reported] *** 
 
 Timeline:
-* 2022-08-24 Discovered
-* 2022-08-24 Reported to docker
-* 2022-08-25 Confirmed
+* 2021-08-24 Discovered
+* 2021-08-24 Reported to docker
+* 2021-08-25 Confirmed
 * TODO
 
 ### 1.4 containerd
