@@ -29,6 +29,7 @@ Timeline:
 * 2021-04-30 Discovered
 * 2021-09-24 CVE number assigned
 * 2021-10-05 Public
+* DONE
 
 #### 1.3.2 [Reported] *** 
 
