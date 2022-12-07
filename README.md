@@ -43,21 +43,21 @@ Timeline:
 
 ### 1.5 runc
 #### 1.5.1 [DISCOVERED] host infomation disclosure
-My boss did not allow me to report to open source.
+My boss did not allow me to report to open source community.
 
 Timeline:
 * 2022-08-04 Discovered
 * TODO
 
 #### 1.5.2 [DISCOVERED] *** bypass
-My boss did not allow me to report to open source.
+My boss did not allow me to report to open source community.
 
 Timeline:
 * 2022-07-29 Discovered
 * TODO
 
 #### 1.5.3 [DISCOVERED] *** escape
-My boss did not allow me to report to open source.
+My boss did not allow me to report to open source community.
 
 Timeline:
 * 2022-06-17 Discovered
