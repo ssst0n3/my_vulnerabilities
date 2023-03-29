@@ -23,6 +23,7 @@ Timeline:
 
 ###  1.3 docker
 #### 1.3.1 [DONE] CVE-2021-41089: `docker cp` allows unexpected chmod of host files
+
 https://github.com/moby/moby/security/advisories/GHSA-v994-f8vw-g7j4
 
 Timeline:
@@ -49,13 +50,16 @@ Timeline:
 * 2022-08-04 Discovered
 * TODO
 
-#### 1.5.2 [REPORTED] *** bypass
+#### 1.5.2 [PUBLISHED] CVE-2023-28642: AppArmor/SELinux bypass with symlinked /proc
+
+https://github.com/opencontainers/runc/security/advisories/GHSA-g2j6-57v7-gm8c
 
 Timeline:
 * 2022-07-29 Discovered
 * 2023-03-28 Reported to runc
 * 2023-03-29 CVE-2023-28642 assigned
-* TODO
+* 2023-03-29 Fixed version v1.1.5 released and cve published
+* DONE
 
 #### 1.5.3 [DISCOVERED] *** escape
 My boss did not allow me to report to open source community.
