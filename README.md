@@ -31,7 +31,7 @@ Timeline:
 * 2021-10-05 Public
 * DONE
 
-#### 1.3.2 [Reported] *** 
+#### 1.3.2 [REPORTED] *** 
 
 Timeline:
 * 2021-08-24 Discovered
@@ -42,12 +42,12 @@ Timeline:
 ### 1.4 containerd
 
 ### 1.5 runc
-#### 1.5.1 [DISCOVERED] host infomation disclosure
+#### 1.5.1 [REPORTED] host infomation disclosure
 My boss did not allow me to report to open source community.
 
 Timeline:
 * 2022-08-04 Discovered
-* TODO
+* 2023-03-29 Reported to runc
 
 #### 1.5.2 [DISCOVERED] *** bypass
 My boss did not allow me to report to open source community.
