@@ -42,18 +42,19 @@ Timeline:
 ### 1.4 containerd
 
 ### 1.5 runc
-#### 1.5.1 [REPORTED] host infomation disclosure
+#### 1.5.1 [DISCOVERED] host infomation disclosure
 My boss did not allow me to report to open source community.
 
 Timeline:
 * 2022-08-04 Discovered
-* 2023-03-29 Reported to runc
+* TODO
 
-#### 1.5.2 [DISCOVERED] *** bypass
-My boss did not allow me to report to open source community.
+#### 1.5.2 [REPORTED] *** bypass
 
 Timeline:
 * 2022-07-29 Discovered
+* 2023-03-28 Reported to runc
+* 2023-03-29 CVE-2023-28642 assigned
 * TODO
 
 #### 1.5.3 [DISCOVERED] *** escape
