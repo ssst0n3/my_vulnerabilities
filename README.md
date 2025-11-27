@@ -43,12 +43,11 @@ Timeline:
 ### 1.4 containerd
 
 ### 1.5 runc
-#### 1.5.1 [DISCOVERED] host infomation disclosure
-My boss did not allow me to report to open source community.
+#### 1.5.1 [Rejected] host infomation disclosure
 
 Timeline:
 * 2022-08-04 Discovered
-* TODO
+* Rejected By Akihiro Suda: I don't think this is a vuln. Containers have been leaking loadavg, memory usage, disk usage, and other resource counters too.
 
 #### 1.5.2 [PUBLISHED] CVE-2023-28642: AppArmor/SELinux bypass with symlinked /proc
 
@@ -61,9 +60,8 @@ Timeline:
 * 2023-03-29 Fixed version v1.1.5 released and cve published
 * DONE
 
-#### 1.5.3 [DISCOVERED] *** escape
-My boss did not allow me to report to open source community.
+#### 1.5.3 [Rejected] runc escape with a capability
 
 Timeline:
 * 2022-06-17 Discovered
-* TODO
+* Rejected By Cyphar: Most capabilities are unsafe to give to a non-userns container. 
