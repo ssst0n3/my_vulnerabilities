@@ -32,13 +32,13 @@ Timeline:
 * 2021-10-05 Public
 * DONE
 
-#### 1.3.2 [REPORTED] *** 
+#### 1.3.2 [REJECTED] docker dos 
 
 Timeline:
 * 2021-08-24 Discovered
 * 2021-08-24 Reported to docker
-* 2021-08-25 Confirmed
-* TODO
+* 2021-08-25 Recieved
+* REJECTED: no response
 
 ### 1.4 containerd
 
